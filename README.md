@@ -16,3 +16,5 @@ They can be found in the following repositories:
   https://github.com/insapathogenomics/algn2pheno - **algn2pheno: a bioinformatics tool for rapid screening of genetic features (nt or aa changes) potentially linked to specific phenotypes**
 
   https://github.com/INSaFLU/findONTime - **findONTime: A bioinformatics tool for real-time metagenomics virus detection analysis using ONT technology and the INSaFLU-TELEVIR platform**
+
+  https://github.com/insapathogenomics/ReporType - **ReporType: a flexible bioinformatics tool for targeted loci screening and typing of infectious agents**
